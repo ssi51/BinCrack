@@ -1,6 +1,6 @@
 # BinCrack
 
-**BinCrack** is a gamified learning platform for binary exploitation, designed to provide hands-on experience and enhance cybersecurity skills through interactive challenges. Built using C++ and MySQL, the project offers a structured and engaging environment for students, enthusiasts, and CTF competitors. This project is part of the **Workshop 1** subject.
+**BinCrack** is a gamified learning platform for binary exploitation, designed to provide hands-on experience and enhance cybersecurity skills through interactive challenges. Built using C++ and MySQL, the project offers a structured and engaging environment for students, enthusiasts, and CTF competitors. This project is part of my **Workshop 1** subject.
 
 ---
 
